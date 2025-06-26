@@ -1,0 +1,653 @@
+2025-05-06 18:05:14,466 | INFO | Starting training on device: cuda
+[ep 1] step 200/4356 loss 2.2275
+[ep 1] step 400/4356 loss 1.9372
+[ep 1] step 600/4356 loss 1.8194
+[ep 1] step 800/4356 loss 1.5956
+[ep 1] step 1000/4356 loss 1.6419
+[ep 1] step 1200/4356 loss 1.7130
+[ep 1] step 1400/4356 loss 1.7131
+[ep 1] step 1600/4356 loss 1.6804
+[ep 1] step 1800/4356 loss 1.5477
+[ep 1] step 2000/4356 loss 1.5731
+[ep 1] step 2200/4356 loss 1.5661
+[ep 1] step 2400/4356 loss 1.4829
+[ep 1] step 2600/4356 loss 1.4040
+[ep 1] step 2800/4356 loss 1.3211
+[ep 1] step 3000/4356 loss 1.4919
+[ep 1] step 3200/4356 loss 1.4535
+[ep 1] step 3400/4356 loss 1.6276
+[ep 1] step 3600/4356 loss 1.4739
+[ep 1] step 3800/4356 loss 1.4951
+[ep 1] step 4000/4356 loss 1.5817
+[ep 1] step 4200/4356 loss 1.5127
+→ epoch 1 mean loss 1.6352
+[ep 2] step 200/4356 loss 1.4457
+[ep 2] step 400/4356 loss 1.4022
+[ep 2] step 600/4356 loss 1.4833
+[ep 2] step 800/4356 loss 1.4776
+[ep 2] step 1000/4356 loss 1.3978
+[ep 2] step 1200/4356 loss 1.4686
+[ep 2] step 1400/4356 loss 1.3449
+[ep 2] step 1600/4356 loss 1.3156
+[ep 2] step 1800/4356 loss 1.5119
+[ep 2] step 2000/4356 loss 1.2684
+[ep 2] step 2200/4356 loss 1.4562
+[ep 2] step 2400/4356 loss 1.3519
+[ep 2] step 2600/4356 loss 1.3635
+[ep 2] step 2800/4356 loss 1.4498
+[ep 2] step 3000/4356 loss 1.4251
+[ep 2] step 3200/4356 loss 1.6088
+[ep 2] step 3400/4356 loss 1.3849
+[ep 2] step 3600/4356 loss 1.5434
+[ep 2] step 3800/4356 loss 1.4924
+[ep 2] step 4000/4356 loss 1.4566
+[ep 2] step 4200/4356 loss 1.4364
+→ epoch 2 mean loss 1.4240
+[ep 3] step 200/4356 loss 1.2573
+[ep 3] step 400/4356 loss 1.2840
+[ep 3] step 600/4356 loss 1.3043
+[ep 3] step 800/4356 loss 1.4596
+[ep 3] step 1000/4356 loss 1.5066
+[ep 3] step 600/4356 loss 1.3043
+[ep 3] step 800/4356 loss 1.4596
+[ep 3] step 1000/4356 loss 1.5066
+[ep 3] step 1200/4356 loss 1.3608
+[ep 3] step 1400/4356 loss 1.4049
+[ep 3] step 1600/4356 loss 1.4048
+[ep 3] step 1800/4356 loss 1.3973
+[ep 3] step 2000/4356 loss 1.5534
+[ep 3] step 2200/4356 loss 1.3357
+[ep 3] step 2400/4356 loss 1.3143
+[ep 3] step 2600/4356 loss 1.3684
+[ep 3] step 2800/4356 loss 1.3468
+[ep 3] step 3000/4356 loss 1.3387
+[ep 3] step 3200/4356 loss 1.3713
+[ep 3] step 3400/4356 loss 1.3626
+[ep 3] step 3600/4356 loss 1.4249
+[ep 3] step 3800/4356 loss 1.4241
+[ep 3] step 4000/4356 loss 1.5590
+[ep 3] step 4200/4356 loss 1.4164
+→ epoch 3 mean loss 1.3800
+Training:  12%|██████████▋                                                                              | 3/25 [54:53<6:36:36, 1081.65s/epoch, loss=1.3800]
+Epoch 4/25:   5%|████▋                                                                                  | 234/4356 [00:58<17:17,  3.97bat
+Epoch 4/25:   5%|████▋                                                                                  | 235/4356 [00:58<17:18,  3.97bat
+Epoch 4/25:   5%|████▋                                                                                  | 235/4356 [00:58<17:18,  3.97bat
+Epoch 4/25:   5%|████▋                                                                                  | 236/4356 [00:58<17:18,  3.97bat
+Epoch 4/25:   5%|████▋                                                                                  | 236/4356 [00:59<17:18,  3.97bat
+Epoch 4/25:   5%|████▋                                                                                  | 237/4356 [00:59<17:19,  3.96bat
+Epoch 4/25:   5%|████▋                                                                                  | 237/4356 [00:59<17:19,  3.96bat
+Epoch 4/25:   5%|████▊                                                                                  | 238/4356 [00:59<17:28,  3.93bat
+Epoch 4/25:   5%|████▊                                                                                  | 238/4356 [00:59<17:28,  3.93bat
+Epoch 4/25:   5%|████▊                                                                                  | 239/4356 [00:59<17:33,  3.91bat
+Epoch 4/25:   5%|████▊                                                                                  | 239/4356 [00:59<17:33,  3.91bat
+Epoch 4/25:   6%|████▊                                                                                  | 240/4356 [00:59<17:38,  3.89bat
+Epoch 4/25:   6%|████▊                                                                                  | 240/4356 [01:00<17:38,  3.89bat
+Epoch 4/25:   6%|████▊                                                                                  | 241/4356 [01:00<17:36,  3.89bat
+Epoch 4/25:   6%|████▊                                                                                  | 241/4356 [01:00<17:36,  3.89bat
+Epoch 4/25:   6%|████▊                                                                                  | 240/4356 [01:00<17:38,  3.89bat
+Epoch 4/25:   6%|████▊                                                                                  | 241/4356 [01:00<17:36,  3.89bat
+Epoch 4/25:   6%|████▊                                                                                  | 241/4356 [01:00<17:36,  3.89bat
+Epoch 4/25:   6%|████▊                                                                                  | 241/4356 [01:00<17:36,  3.89bat
+Epoch 4/25:   6%|████▊                                                                                  | 242/4356 [01:00<17:36,  3.89bat
+Epoch 4/25:   6%|████▊                                                                                  | 242/4356 [01:00<17:36,  3.89bat
+Epoch 4/25:   6%|████▊                                                                                  | 243/4356 [01:00<17:33,  3.91bat
+Epoch 4/25:   6%|████▊                                                                                  | 243/4356 [01:00<17:33,  3.91bat
+Epoch 4/25:   6%|████▊                                                                                  | 244/4356 [01:00<17:34,  3.90bat
+Epoch 4/25:   6%|████▊                                                                                  | 244/4356 [01:01<17:34,  3.90bat
+[ep 4] step 400/4356 loss 1.4998
+[ep 4] step 600/4356 loss 1.4544
+[ep 4] step 800/4356 loss 1.3856
+[ep 4] step 1000/4356 loss 1.2435
+[ep 4] step 1200/4356 loss 1.4111
+[ep 4] step 1400/4356 loss 1.3180
+[ep 4] step 1600/4356 loss 1.3275
+[ep 4] step 1800/4356 loss 1.3289
+[ep 4] step 2000/4356 loss 1.3142
+[ep 4] step 2200/4356 loss 1.5523
+[ep 4] step 2400/4356 loss 1.3908
+[ep 4] step 2600/4356 loss 1.3834
+[ep 4] step 2800/4356 loss 1.2671
+[ep 4] step 3000/4356 loss 1.2479
+[ep 4] step 3200/4356 loss 1.2129
+[ep 4] step 3400/4356 loss 1.4287
+[ep 4] step 3600/4356 loss 1.4713
+[ep 4] step 3800/4356 loss 1.3099
+[ep 4] step 4000/4356 loss 1.3351
+[ep 4] step 4200/4356 loss 1.4191
+→ epoch 4 mean loss 1.3557
+[ep 5] step 200/4356 loss 1.2743
+[ep 5] step 400/4356 loss 1.3162
+[ep 5] step 600/4356 loss 1.4973
+[ep 5] step 800/4356 loss 1.3670
+[ep 5] step 1000/4356 loss 1.4345
+[ep 5] step 1200/4356 loss 1.2274
+[ep 5] step 1400/4356 loss 1.4579
+[ep 5] step 1600/4356 loss 1.3276
+[ep 5] step 1800/4356 loss 1.1893
+[ep 5] step 2000/4356 loss 1.3457
+[ep 5] step 2200/4356 loss 1.5137
+[ep 5] step 2400/4356 loss 1.3399
+[ep 5] step 2600/4356 loss 1.3853
+[ep 5] step 2800/4356 loss 1.2997
+[ep 5] step 3000/4356 loss 1.3258
+[ep 5] step 3200/4356 loss 1.4199
+[ep 5] step 3400/4356 loss 1.3805
+[ep 5] step 3600/4356 loss 1.3459
+[ep 5] step 3800/4356 loss 1.2947
+[ep 5] step 4000/4356 loss 1.1795
+[ep 5] step 4200/4356 loss 1.1604
+→ epoch 5 mean loss 1.3368
+[ep 6] step 200/4356 loss 1.3901
+[ep 6] step 400/4356 loss 1.3156
+[ep 6] step 600/4356 loss 1.4384
+[ep 6] step 800/4356 loss 1.2799
+[ep 6] step 1000/4356 loss 1.1945
+[ep 6] step 1200/4356 loss 1.1860
+[ep 6] step 1400/4356 loss 1.3647
+[ep 6] step 1600/4356 loss 1.4158
+[ep 6] step 1800/4356 loss 1.1639
+[ep 6] step 2000/4356 loss 1.4549
+[ep 6] step 2200/4356 loss 1.2881
+[ep 6] step 2400/4356 loss 1.4033
+[ep 6] step 2600/4356 loss 1.3488
+[ep 6] step 2800/4356 loss 1.3182
+[ep 6] step 3000/4356 loss 1.4181
+[ep 6] step 3200/4356 loss 1.2585
+[ep 6] step 3400/4356 loss 1.4594
+[ep 6] step 3600/4356 loss 1.2812
+[ep 6] step 3800/4356 loss 1.3159
+[ep 6] step 4000/4356 loss 1.5363
+[ep 6] step 4200/4356 loss 1.3085
+→ epoch 6 mean loss 1.3227
+[ep 7] step 200/4356 loss 1.2606
+[ep 7] step 400/4356 loss 1.4477
+[ep 7] step 600/4356 loss 1.3938
+[ep 7] step 800/4356 loss 1.1800
+[ep 7] step 1000/4356 loss 1.3815
+[ep 7] step 1200/4356 loss 1.2684
+[ep 7] step 1400/4356 loss 1.2786
+[ep 7] step 1600/4356 loss 1.4118
+[ep 7] step 1800/4356 loss 1.3787
+[ep 7] step 2000/4356 loss 1.4062
+[ep 7] step 2200/4356 loss 1.2173
+[ep 7] step 2400/4356 loss 1.4458
+[ep 7] step 2600/4356 loss 1.1519
+[ep 7] step 2800/4356 loss 1.3440
+[ep 7] step 3000/4356 loss 1.2018
+[ep 7] step 3200/4356 loss 1.4027
+[ep 7] step 3400/4356 loss 1.2446
+[ep 7] step 3600/4356 loss 1.3277
+[ep 7] step 3800/4356 loss 1.4186
+[ep 7] step 4000/4356 loss 1.2796
+[ep 7] step 4200/4356 loss 1.3305
+→ epoch 7 mean loss 1.3089
+[ep 8] step 200/4356 loss 1.1349
+[ep 8] step 400/4356 loss 1.1937
+[ep 8] step 600/4356 loss 1.1751
+[ep 8] step 800/4356 loss 1.3300
+[ep 8] step 1000/4356 loss 1.3099
+[ep 8] step 1200/4356 loss 1.0865
+[ep 8] step 1400/4356 loss 1.4134
+[ep 8] step 1600/4356 loss 1.1905
+[ep 8] step 1800/4356 loss 1.2704
+[ep 8] step 2000/4356 loss 1.3200
+[ep 8] step 2200/4356 loss 1.4267
+[ep 8] step 2400/4356 loss 1.1615
+[ep 8] step 2600/4356 loss 1.4592
+[ep 8] step 2800/4356 loss 1.2966
+[ep 8] step 3000/4356 loss 1.3359
+[ep 8] step 3200/4356 loss 1.3299
+[ep 8] step 3400/4356 loss 1.1609
+[ep 8] step 3600/4356 loss 1.1967
+[ep 8] step 3800/4356 loss 1.2492
+[ep 8] step 4000/4356 loss 1.2889
+[ep 8] step 4200/4356 loss 1.3928
+→ epoch 8 mean loss 1.2961
+[ep 9] step 200/4356 loss 1.3158
+[ep 9] step 400/4356 loss 1.3018
+[ep 9] step 600/4356 loss 1.1527
+[ep 9] step 800/4356 loss 1.2911
+[ep 9] step 1000/4356 loss 1.2317
+[ep 9] step 1200/4356 loss 1.3086
+[ep 9] step 1400/4356 loss 1.2879
+[ep 9] step 1600/4356 loss 1.2668
+[ep 9] step 1800/4356 loss 1.3471
+[ep 9] step 2000/4356 loss 1.1665
+[ep 9] step 2200/4356 loss 1.3467
+[ep 9] step 2400/4356 loss 1.1455
+[ep 9] step 2600/4356 loss 1.2672
+[ep 9] step 2800/4356 loss 1.3413
+[ep 9] step 3000/4356 loss 1.1514
+[ep 9] step 3200/4356 loss 1.3823
+[ep 9] step 3400/4356 loss 1.2376
+[ep 9] step 3600/4356 loss 1.2660
+[ep 9] step 3800/4356 loss 1.2672
+[ep 9] step 4000/4356 loss 1.2665
+[ep 9] step 4200/4356 loss 1.2199
+→ epoch 9 mean loss 1.2840
+[ep 10] step 200/4356 loss 1.2893
+[ep 10] step 400/4356 loss 1.1466
+[ep 10] step 600/4356 loss 1.4432
+[ep 10] step 800/4356 loss 1.2971
+[ep 10] step 1000/4356 loss 1.3284
+[ep 10] step 1200/4356 loss 1.2786
+[ep 10] step 1400/4356 loss 1.1592
+[ep 10] step 1600/4356 loss 1.1174
+[ep 10] step 1800/4356 loss 1.2840
+[ep 10] step 2000/4356 loss 1.3514
+[ep 10] step 2200/4356 loss 1.1035
+[ep 10] step 2400/4356 loss 1.2118
+[ep 10] step 2600/4356 loss 1.2152
+[ep 10] step 2800/4356 loss 1.2740
+[ep 10] step 3000/4356 loss 1.1995
+[ep 10] step 3200/4356 loss 1.2581
+[ep 10] step 3400/4356 loss 1.3449
+[ep 10] step 3600/4356 loss 1.1969
+[ep 10] step 3800/4356 loss 1.3363
+[ep 10] step 4000/4356 loss 1.3353
+[ep 10] step 4200/4356 loss 1.1995
+→ epoch 10 mean loss 1.2725
+[ep 11] step 200/4356 loss 1.2384
+[ep 11] step 400/4356 loss 1.3885
+[ep 11] step 600/4356 loss 1.1583
+[ep 11] step 800/4356 loss 1.4053
+[ep 11] step 1000/4356 loss 1.2949
+[ep 11] step 1200/4356 loss 1.3756
+[ep 11] step 1400/4356 loss 1.2939
+[ep 11] step 1600/4356 loss 1.1923
+[ep 11] step 1800/4356 loss 1.2632
+[ep 11] step 2000/4356 loss 1.2415
+[ep 11] step 2200/4356 loss 1.2393
+[ep 11] step 2400/4356 loss 1.2363
+[ep 11] step 2600/4356 loss 1.2998
+[ep 11] step 2800/4356 loss 1.2569
+[ep 11] step 3000/4356 loss 1.1479
+[ep 11] step 3200/4356 loss 1.3238
+[ep 11] step 3400/4356 loss 1.2667
+[ep 11] step 3600/4356 loss 1.1279
+[ep 11] step 3800/4356 loss 1.3402
+[ep 11] step 4000/4356 loss 1.2307
+[ep 11] step 4200/4356 loss 1.1128
+→ epoch 11 mean loss 1.2608
+[ep 12] step 200/4356 loss 1.0525
+[ep 12] step 400/4356 loss 1.1554
+[ep 12] step 600/4356 loss 1.3270
+[ep 12] step 800/4356 loss 1.2552
+[ep 12] step 1000/4356 loss 1.3385
+[ep 12] step 1200/4356 loss 1.3550
+[ep 12] step 1400/4356 loss 1.1238
+[ep 12] step 1600/4356 loss 1.2333
+[ep 12] step 1800/4356 loss 1.3649
+[ep 12] step 2000/4356 loss 1.1079
+[ep 12] step 2200/4356 loss 1.2545
+[ep 12] step 2400/4356 loss 1.2474
+[ep 12] step 2600/4356 loss 1.3338
+[ep 12] step 2800/4356 loss 1.3393
+[ep 12] step 3000/4356 loss 1.2035
+[ep 12] step 3200/4356 loss 1.3573
+[ep 12] step 3400/4356 loss 1.1354
+[ep 12] step 3600/4356 loss 1.3665
+[ep 12] step 3800/4356 loss 1.1596
+[ep 12] step 4000/4356 loss 1.2027
+[ep 12] step 4200/4356 loss 1.2274
+→ epoch 12 mean loss 1.2506
+[ep 13] step 200/4356 loss 1.0684
+[ep 13] step 400/4356 loss 1.2869
+[ep 13] step 600/4356 loss 1.2220
+[ep 13] step 800/4356 loss 1.1701
+[ep 13] step 1000/4356 loss 1.2857
+[ep 13] step 1200/4356 loss 1.3447
+[ep 13] step 1400/4356 loss 1.0322
+[ep 13] step 1600/4356 loss 1.2494
+[ep 13] step 1800/4356 loss 1.1767
+[ep 13] step 2000/4356 loss 1.3536
+[ep 13] step 2200/4356 loss 1.2054
+[ep 13] step 2400/4356 loss 1.2653
+[ep 13] step 2600/4356 loss 1.3105
+[ep 13] step 2800/4356 loss 1.1427
+[ep 13] step 3000/4356 loss 1.2850
+[ep 13] step 3200/4356 loss 1.2681
+[ep 13] step 3400/4356 loss 1.2522
+[ep 13] step 3600/4356 loss 1.3535
+[ep 13] step 3800/4356 loss 1.2908
+[ep 13] step 4000/4356 loss 1.2415
+[ep 13] step 4200/4356 loss 1.3167
+→ epoch 13 mean loss 1.2403
+[ep 14] step 200/4356 loss 1.3546
+[ep 14] step 400/4356 loss 1.1535
+[ep 14] step 600/4356 loss 1.3073
+[ep 14] step 800/4356 loss 1.2598
+[ep 14] step 1000/4356 loss 1.1771
+[ep 14] step 1200/4356 loss 1.1624
+[ep 14] step 1400/4356 loss 1.2199
+[ep 14] step 1600/4356 loss 1.1745
+[ep 14] step 1800/4356 loss 1.3504
+[ep 14] step 2000/4356 loss 1.1086
+[ep 14] step 2200/4356 loss 0.9965
+[ep 14] step 2400/4356 loss 1.2135
+[ep 14] step 2600/4356 loss 1.2378
+[ep 14] step 2800/4356 loss 1.2449
+[ep 14] step 3000/4356 loss 1.2878
+[ep 14] step 3200/4356 loss 1.0558
+[ep 14] step 3400/4356 loss 1.1571
+[ep 14] step 3600/4356 loss 1.1980
+[ep 14] step 3800/4356 loss 1.3682
+[ep 14] step 4000/4356 loss 1.1546
+[ep 14] step 4200/4356 loss 1.1829
+→ epoch 14 mean loss 1.2318
+[ep 15] step 200/4356 loss 1.2134
+[ep 15] step 400/4356 loss 1.1722
+[ep 15] step 600/4356 loss 1.2111
+[ep 15] step 800/4356 loss 1.1910
+[ep 15] step 1000/4356 loss 1.0759
+[ep 15] step 1200/4356 loss 1.3309
+[ep 15] step 1400/4356 loss 1.0905
+[ep 15] step 1600/4356 loss 1.2091
+[ep 15] step 1800/4356 loss 1.2398
+[ep 15] step 2000/4356 loss 1.2504
+[ep 15] step 2200/4356 loss 1.1659
+[ep 15] step 2400/4356 loss 1.2633
+[ep 15] step 2600/4356 loss 1.2939
+[ep 15] step 2800/4356 loss 1.4589
+[ep 15] step 3000/4356 loss 1.2570
+[ep 15] step 3200/4356 loss 1.3120
+[ep 15] step 3400/4356 loss 1.2260
+[ep 15] step 3600/4356 loss 1.1470
+[ep 15] step 3800/4356 loss 1.2534
+[ep 15] step 4000/4356 loss 1.2820
+[ep 15] step 4200/4356 loss 1.2277
+→ epoch 15 mean loss 1.2197
+[ep 16] step 200/4356 loss 1.2498
+[ep 16] step 400/4356 loss 1.1439
+[ep 16] step 600/4356 loss 1.1676
+[ep 16] step 800/4356 loss 1.0041
+[ep 16] step 1000/4356 loss 1.1878
+[ep 16] step 1200/4356 loss 1.2312
+[ep 16] step 1400/4356 loss 1.0963
+[ep 16] step 1600/4356 loss 1.3122
+[ep 16] step 1800/4356 loss 1.2408
+[ep 16] step 2000/4356 loss 1.1210
+[ep 16] step 2200/4356 loss 1.1336
+[ep 16] step 2400/4356 loss 1.2900
+[ep 16] step 2600/4356 loss 1.0799
+[ep 16] step 2800/4356 loss 1.2323
+[ep 16] step 3000/4356 loss 1.4157
+[ep 16] step 3200/4356 loss 1.2116
+[ep 16] step 3400/4356 loss 1.3536
+[ep 16] step 3600/4356 loss 1.2613
+[ep 16] step 3800/4356 loss 1.1294
+[ep 16] step 4000/4356 loss 1.3341
+[ep 16] step 4200/4356 loss 1.2677
+→ epoch 16 mean loss 1.2108
+[ep 17] step 200/4356 loss 1.2491
+[ep 17] step 400/4356 loss 1.0987
+[ep 17] step 600/4356 loss 1.4030
+[ep 17] step 800/4356 loss 1.1874
+[ep 17] step 1000/4356 loss 1.1777
+[ep 17] step 1200/4356 loss 1.1320
+[ep 17] step 1400/4356 loss 1.2116
+[ep 17] step 1600/4356 loss 1.2679
+[ep 17] step 1800/4356 loss 1.2571
+[ep 17] step 2000/4356 loss 1.3462
+[ep 17] step 2200/4356 loss 1.1208
+[ep 17] step 2400/4356 loss 1.0742
+[ep 17] step 2600/4356 loss 1.2667
+[ep 17] step 2800/4356 loss 1.3758
+[ep 17] step 3000/4356 loss 1.1234
+[ep 17] step 3200/4356 loss 1.1871
+[ep 17] step 3400/4356 loss 1.2728
+[ep 17] step 3600/4356 loss 1.2352
+[ep 17] step 3800/4356 loss 1.1549
+[ep 17] step 4000/4356 loss 1.2549
+[ep 17] step 4200/4356 loss 1.2847
+→ epoch 17 mean loss 1.1999
+[ep 18] step 200/4356 loss 1.1787
+[ep 18] step 400/4356 loss 1.1791
+[ep 18] step 600/4356 loss 1.1176
+[ep 18] step 800/4356 loss 1.2559
+[ep 18] step 1000/4356 loss 1.1491
+[ep 18] step 1200/4356 loss 1.2895
+[ep 18] step 1400/4356 loss 1.1315
+[ep 18] step 1600/4356 loss 1.0544
+[ep 18] step 1800/4356 loss 1.1745
+[ep 18] step 2000/4356 loss 1.1632
+[ep 18] step 2200/4356 loss 1.1803
+[ep 18] step 2400/4356 loss 1.2686
+[ep 18] step 2600/4356 loss 1.2378
+[ep 18] step 2800/4356 loss 1.1117
+[ep 18] step 3000/4356 loss 1.1309
+[ep 18] step 3200/4356 loss 1.2125
+[ep 18] step 3400/4356 loss 1.2511
+[ep 18] step 3600/4356 loss 1.2262
+[ep 18] step 3800/4356 loss 1.1954
+[ep 18] step 4000/4356 loss 1.3536
+[ep 18] step 4200/4356 loss 1.2702
+→ epoch 18 mean loss 1.1904
+[ep 19] step 200/4356 loss 1.0833
+[ep 19] step 400/4356 loss 1.2148
+[ep 19] step 600/4356 loss 1.1476
+[ep 19] step 800/4356 loss 1.1123
+[ep 19] step 1000/4356 loss 1.1116
+[ep 19] step 1200/4356 loss 1.1923
+[ep 19] step 1400/4356 loss 1.1575
+[ep 19] step 1600/4356 loss 1.2261
+[ep 19] step 1800/4356 loss 1.1908
+[ep 19] step 2000/4356 loss 1.0312
+[ep 19] step 2200/4356 loss 1.1219
+[ep 19] step 2400/4356 loss 1.2935
+[ep 19] step 2600/4356 loss 1.2526
+[ep 19] step 2800/4356 loss 1.2435
+[ep 19] step 3000/4356 loss 1.1967
+[ep 19] step 3200/4356 loss 1.1244
+[ep 19] step 3400/4356 loss 1.1329
+[ep 19] step 3600/4356 loss 1.2679
+[ep 19] step 3800/4356 loss 1.1304
+[ep 19] step 4000/4356 loss 1.0869
+[ep 19] step 4200/4356 loss 1.2822
+→ epoch 19 mean loss 1.1817
+[ep 20] step 200/4356 loss 1.0794
+[ep 20] step 400/4356 loss 1.2833
+[ep 20] step 600/4356 loss 1.1374
+[ep 20] step 800/4356 loss 1.3021
+[ep 20] step 1000/4356 loss 1.1130
+[ep 20] step 1200/4356 loss 1.1680
+[ep 20] step 1400/4356 loss 1.1858
+[ep 20] step 1600/4356 loss 1.1334
+[ep 20] step 1800/4356 loss 1.2103
+[ep 20] step 2000/4356 loss 1.2026
+[ep 20] step 2200/4356 loss 1.0676
+[ep 20] step 2400/4356 loss 1.1705
+[ep 20] step 2600/4356 loss 1.1216
+[ep 20] step 2800/4356 loss 1.1871
+[ep 20] step 3000/4356 loss 1.1662
+[ep 20] step 3200/4356 loss 1.0704
+[ep 20] step 3400/4356 loss 1.2229
+[ep 20] step 3600/4356 loss 1.1987
+[ep 20] step 3800/4356 loss 1.2454
+[ep 20] step 4000/4356 loss 1.1537
+[ep 20] step 4200/4356 loss 1.2069
+→ epoch 20 mean loss 1.1723
+[ep 21] step 200/4356 loss 1.1383
+[ep 21] step 400/4356 loss 1.1310
+[ep 21] step 600/4356 loss 1.1205
+[ep 21] step 800/4356 loss 1.1343
+[ep 21] step 1000/4356 loss 1.1281
+[ep 21] step 1200/4356 loss 1.1022
+[ep 21] step 1400/4356 loss 1.1589
+[ep 21] step 1600/4356 loss 1.1787
+[ep 21] step 1800/4356 loss 1.0503
+[ep 21] step 2000/4356 loss 1.1359
+[ep 21] step 2200/4356 loss 1.1259
+[ep 21] step 2400/4356 loss 1.3762
+[ep 21] step 2600/4356 loss 1.1634
+[ep 21] step 2800/4356 loss 1.1037
+[ep 21] step 3000/4356 loss 1.1341
+[ep 21] step 3200/4356 loss 1.1809
+[ep 21] step 3400/4356 loss 1.2899
+[ep 21] step 3600/4356 loss 1.2838
+[ep 21] step 3800/4356 loss 1.2231
+[ep 21] step 4000/4356 loss 1.0841
+[ep 21] step 4200/4356 loss 1.0791
+→ epoch 21 mean loss 1.1652
+[ep 22] step 200/4356 loss 1.1519
+[ep 22] step 400/4356 loss 1.2986
+[ep 22] step 600/4356 loss 1.0349
+[ep 22] step 800/4356 loss 1.0874
+[ep 22] step 1000/4356 loss 1.1173
+[ep 22] step 1200/4356 loss 1.1622
+[ep 22] step 1400/4356 loss 1.0905
+[ep 22] step 1600/4356 loss 1.1489
+[ep 22] step 1800/4356 loss 1.2928
+[ep 22] step 2000/4356 loss 1.1748
+[ep 22] step 2200/4356 loss 1.2006
+[ep 22] step 2400/4356 loss 1.1178
+[ep 22] step 2600/4356 loss 1.2024
+[ep 22] step 2800/4356 loss 1.0650
+[ep 22] step 3000/4356 loss 1.2027
+[ep 22] step 3200/4356 loss 1.1723
+[ep 22] step 3400/4356 loss 1.1395
+[ep 22] step 3600/4356 loss 1.0937
+[ep 22] step 3800/4356 loss 1.1875
+[ep 22] step 4000/4356 loss 1.0874
+[ep 22] step 4200/4356 loss 1.2120
+→ epoch 22 mean loss 1.1574
+[ep 23] step 200/4356 loss 1.0984
+[ep 23] step 400/4356 loss 1.1974
+[ep 23] step 600/4356 loss 1.2282
+[ep 23] step 800/4356 loss 1.1215
+[ep 23] step 1000/4356 loss 1.0239
+[ep 23] step 1200/4356 loss 1.1547
+[ep 23] step 1400/4356 loss 1.0529
+[ep 23] step 1600/4356 loss 1.2076
+[ep 23] step 1800/4356 loss 1.1857
+[ep 23] step 2000/4356 loss 1.1568
+[ep 23] step 2200/4356 loss 1.1870
+[ep 23] step 2400/4356 loss 1.2259
+[ep 23] step 2600/4356 loss 0.9764
+[ep 23] step 2800/4356 loss 1.1086
+[ep 23] step 3000/4356 loss 1.1466
+[ep 23] step 3200/4356 loss 0.9471
+[ep 23] step 3400/4356 loss 1.0508
+[ep 23] step 3600/4356 loss 1.2459
+[ep 23] step 3800/4356 loss 1.0071
+[ep 23] step 4000/4356 loss 1.1461
+[ep 23] step 4200/4356 loss 1.1569
+→ epoch 23 mean loss 1.1498
+[ep 24] step 200/4356 loss 1.0698
+[ep 24] step 400/4356 loss 1.0561
+[ep 24] step 600/4356 loss 1.1689
+[ep 24] step 800/4356 loss 1.1082
+[ep 24] step 1000/4356 loss 1.2511
+[ep 24] step 1200/4356 loss 1.1490
+[ep 24] step 1400/4356 loss 1.1797
+[ep 24] step 1600/4356 loss 1.2295
+[ep 24] step 1800/4356 loss 1.0329
+[ep 24] step 2000/4356 loss 1.0681
+[ep 24] step 2200/4356 loss 1.2185
+[ep 24] step 2400/4356 loss 1.1178
+[ep 24] step 2600/4356 loss 1.0331
+[ep 24] step 2800/4356 loss 1.1551
+[ep 24] step 3000/4356 loss 1.0989
+[ep 24] step 3200/4356 loss 1.2908
+[ep 24] step 3400/4356 loss 1.1652
+[ep 24] step 3600/4356 loss 1.1660
+[ep 24] step 3800/4356 loss 1.1331
+[ep 24] step 4000/4356 loss 1.1469
+[ep 24] step 4200/4356 loss 1.2831
+→ epoch 24 mean loss 1.1428
+[ep 25] step 200/4356 loss 1.0281
+[ep 25] step 400/4356 loss 0.9370
+[ep 25] step 600/4356 loss 1.1595
+[ep 25] step 800/4356 loss 1.2218
+[ep 25] step 1000/4356 loss 1.1601
+[ep 25] step 1200/4356 loss 1.1814
+[ep 25] step 1400/4356 loss 1.1222
+[ep 25] step 1600/4356 loss 1.2148
+[ep 25] step 1800/4356 loss 1.1470
+[ep 25] step 2000/4356 loss 1.2089
+[ep 25] step 2200/4356 loss 1.2549
+[ep 25] step 2400/4356 loss 1.2151
+[ep 25] step 2600/4356 loss 1.1220
+[ep 25] step 2800/4356 loss 1.1699
+[ep 25] step 3000/4356 loss 1.0626
+[ep 25] step 3200/4356 loss 1.1227
+[ep 25] step 3400/4356 loss 1.1119
+[ep 25] step 3600/4356 loss 1.2620
+[ep 25] step 3800/4356 loss 1.1629
+[ep 25] step 4000/4356 loss 1.2091
+[ep 25] step 4200/4356 loss 1.1718
+→ epoch 25 mean loss 1.1363
+Training: 100%|████████████████████████████████████████████████████████████████████████████████████████| 25/25 [7:30:47<00:00, 1081.89s/epoch, loss=1.1363]
+--- Logging error ---
+Traceback (most recent call last):
+  File "D:\AnaConda\anaconda\envs\AIALab5\lib\logging\__init__.py", line 1103, in emit
+    stream.write(msg + self.terminator)
+UnicodeEncodeError: 'gbk' codec can't encode character '\u2713' in position 34: illegal multibyte sequence
+Call stack:
+  File "C:\code_PyCharm\AIA-Labs\AIA-Lab6\rnn_experiment_framework.py", line 245, in <module>
+    main()
+  File "C:\code_PyCharm\AIA-Labs\AIA-Lab6\rnn_experiment_framework.py", line 226, in main
+    logger.info("[✓] weights saved → %s", args.model)
+Message: '[✓] weights saved → %s'
+Arguments: ('char_lstm.pth',)
+2025-05-07 01:36:01,803 | INFO | [✓] weights saved → char_lstm.pth
+--- Logging error ---
+Traceback (most recent call last):
+  File "D:\AnaConda\anaconda\envs\AIALab5\lib\logging\__init__.py", line 1103, in emit
+    stream.write(msg + self.terminator)
+UnicodeEncodeError: 'gbk' codec can't encode character '\u2713' in position 34: illegal multibyte sequence
+Call stack:
+  File "C:\code_PyCharm\AIA-Labs\AIA-Lab6\rnn_experiment_framework.py", line 245, in <module>
+    main()
+  File "C:\code_PyCharm\AIA-Labs\AIA-Lab6\rnn_experiment_framework.py", line 236, in main
+    logger.info("[✓] curve saved → %s", fig)
+Message: '[✓] curve saved → %s'
+Arguments: ('loss_20250507_013603.png',)
+2025-05-07 01:36:03,284 | INFO | [✓] curve saved → loss_20250507_013603.png
+2025-05-07 01:36:03,286 | INFO |
+--- temperature 0.50 ---
+2025-05-07 01:36:07,599 | INFO | ROMEO: I shall
+stay a fellow of your hearts, and as the duke is a
+good fellow. And the tribunes of the poor servant
+In the senate and the day.
+
+MERCUTIO:
+Marry, your master's bosom! I have to hear him like
+to him and the rest, and in common fight with
+this case of mine honour, the most strange fight
+of his house, the authority of the head
+of the people and the best of the face of the
+courtesy to his plea
+2025-05-07 01:36:07,608 | INFO |
+--- temperature 1.00 ---
+2025-05-07 01:36:12,040 | INFO | ROMEO: Busking
+there may meet me, that seem to breathe me of;
+bad all, your way towards me! say, look to you;
+is your great puisston in your promise?
+
+LUCIO:
+This cannot all home.
+
+Shepherd:
+No, I cannot be a fair head: I'll subdound you.
+
+ISABELLA:
+Have you not find you enemies of?
+
+VOLUMNIA:
+She may be lock'd; this is use to be ten thousand.
+
+GRUMIO:
+What, as this colour think?
+
+O whenver should send it beloved!
+
+Nurse:
+Ay, bid'st this adage, sir, but instnuction
+To brung Lucentio Bastaries for the earth-brow'?
+Farewell: once more unvery, song hews
+To my pity; wherefore follow now!
+Take-sycome-tyrant and eacle-may-- worthy word,
+First. cursterce? lies at't; get him foot.
+Do't from thy new-subsciped lambs,
+Retailting winds of Grutic
